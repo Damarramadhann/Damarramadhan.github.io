@@ -71,9 +71,6 @@ footer p span {
     flex-direction: column;
     align-items: center;
   }
-  .text-contact h2 {
-    right: 100px;
-  }
 }
 
 @media (max-width: 576px) {
